@@ -1,7 +1,7 @@
 # Verifica DSP - SINTESI SOTTRATTIVA
 
 Crea un file di faust in cui esponi, in forma di commento, i principi della sintesi sottrattiva. Realizza un esempio attraverso un filtraggio passa banda.
-,
+
 ## Strumenti
 
 Utilizzare l'[editor online](https://faust.grame.fr/tools/editor/index.html) di Faust per scrivere e verificare il codice
