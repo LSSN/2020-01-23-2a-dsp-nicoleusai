@@ -1,6 +1,11 @@
 # Verifica DSP - SINTESI SOTTRATTIVA
 
 Crea un file di faust in cui esponi, in forma di commento, i principi della sintesi sottrattiva. Realizza un esempio attraverso un filtraggio passa banda.
+//la sintesi sottrattiva fa perte delle tecniche di sintesi del suono 
+//serve per filtrare un suono, quindi si tagliano delle parti per rendere più pulitio un suono 
+
+
+
 
 ## Strumenti
 
